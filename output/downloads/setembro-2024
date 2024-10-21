@@ -1,0 +1,8063 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+
+<head>
+    <meta charset="utf-8" />
+  <!-- Google Tag Manager -->
+  <script type="text">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+  <!-- End Google Tag Manager -->
+
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "url": "https://www.gov.br/ans",
+            "logo": "https://www.gov.br/ans/logo.png"
+        }</script>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "url": "https://www.gov.br/ans",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://www.gov.br/ans/search?SearchableText={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+        }</script>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/setembro-2024" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        <meta property="og:title" content="Padrão TISS – Setembro/2024" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/setembro-2024" />
+<meta property="og:image" content="https://www.gov.br/ans/logo.png" />
+
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:site_name" content="Agência Nacional de Saúde Suplementar" />
+
+
+  
+
+  
+  
+  <script type="text">
+    (function() {
+        var po = document.createElement('script');
+        po.async = true;
+        po.src = document.location.protocol + '//connect.facebook.net/pt_BR/all.js#xfbml=1';
+        var head = document.getElementsByTagName('head')[0];
+        head.appendChild(po);
+    }());
+    </script>
+
+
+
+  
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@" />
+  
+
+
+
+
+
+<meta property="creator.productor" content="https://www.gov.br/saude" />
+
+
+
+  
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/ans/portal_css/Sunburst%20Theme/reset-cachekey-2d22e1505c049694fdff2f246c9e0eb2.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/ans/portal_css/Sunburst%20Theme/base-cachekey-ad6e1404ec764dc3d06b22656b99c4b1.css" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/ans/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.overlays-cachekey-d11a2ffd214554f15592cdda802f4b96.css" media="screen" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/ans/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-3fc64b743c8302ae0901f5865481609f.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/ans/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-bad6b23ef32df8b78c4301bfb4a51b93.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/ans/portal_css/Sunburst%20Theme/jquery.autocomplete-cachekey-50a142c88c0b4aa7c47ab18370361d85.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/ans/portal_css/Sunburst%20Theme/embedder-cachekey-110f07691338291f3f264752385c552a.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/ans/portal_css/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-aa27b015e014e67794fcfdd75a7c82e0.css" media="screen" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/ans/portal_css/Sunburst%20Theme/resourcecollective.pollscsscollective.polls-cachekey-5f885c68564822e4d41f052c7d874783.css);</style>
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/ans/portal_css/Sunburst%20Theme/IEFixes-cachekey-6117d9175b25af008f95e7004afb11fc.css" media="screen" />
+        <![endif]-->
+    
+    <style type="text/css" media="all">@import url(https://www.gov.br/ans/portal_css/Sunburst%20Theme/resourcepas.plugins.loginunicologinunico-cachekey-72ca3f861078386c971d9bc61834f196.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/ans/portal_css/Sunburst%20Theme/resourcelgpd.plugindsgov.min-cachekey-02cb409825207da10fca7d22f409b3dd.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/ans/portal_css/Sunburst%20Theme/resourcegovbr.policycanais-cachekey-ae210b863e2ee697f7cdf0f7c5d59631.css" />
+
+  
+  
+    <script type="text/javascript" src="https://www.gov.br/ans/portal_javascripts/Sunburst%20Theme/++resource++govbr.recomendacao/govbr.recom.9e3eea160cd9e43452ac.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/ans/portal_javascripts/Sunburst%20Theme/resourcegovbr.policybrowser-update-cachekey-cbb901a7ded205ca2836acaba8f7202e.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/ans/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-480a33c06211ef1a33d7723930f5a1b1.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/ans/portal_javascripts/Sunburst%20Theme/resourcegovbr.policyfolder_contents-cachekey-63a121185ce4d795f6abcc167a2148d7.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/ans/portal_javascripts/Sunburst%20Theme/resourcegovbr.policycookiebar_1_3_55-cachekey-c263d0cd44f2dd4a158f938acb0605dc.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/ans/portal_javascripts/Sunburst%20Theme/resourcegovbr.policyapplication_cookiebar_1_3_55-cachekey-54d1aebfe737264e21133bcaf7bfc66c.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/ans/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-a60119b348901751e3a16c215b1d0166.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/ans/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-5c9c6e175e7a1f1c9faa6ee64e6674b8.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/ans/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-1dec01fd605f82ad2716d5b19a221e11.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/ans/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-2c4d3d2b4f15eb5a3d28d1210f150a99.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/ans/portal_javascripts/Sunburst%20Theme/resourcecollective.nitfnitf-cachekey-fcae78a4a19c0b69415aa1fca6673f62.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/ans/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-ef40dba6f6e8620a04af0102eb76a298.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/ans/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-cc0a357ef965f9f30ee66e844209c3a9.js"></script>
+    <script type="text/javascript"></script>
+    <script type="text/javascript"></script>
+    <script type="text/javascript" src="https://www.gov.br/ans/portal_javascripts/Sunburst%20Theme/resourcelgpd.pluginchangeCookieImage-cachekey-f45b70a76d242474326a615a4e83cc5d.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/ans/portal_javascripts/Sunburst%20Theme/resourcelgpd.pluginblock_cookies-cachekey-5c4fe1bd68c71b15a20173f49d4514bc.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/ans/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/ans/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/ans/++resource++brasil.gov.portal/brasilgovportal-ee510e4.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/ans/++resource++brasil.gov.portal/brasilgovportal-ee510e4.js"></script>
+
+
+
+<title>Padrão TISS – Setembro/2024 — Agência Nacional de Saúde Suplementar</title>
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema" />
+        
+    <link rel="author" href="https://www.gov.br/ans/pt-br" title="Informações do Autor" />
+
+    <link rel="canonical" href="https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/setembro-2024" />
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+
+    <link rel="search" href="https://www.gov.br/ans/pt-br/@@search" title="Buscar neste site" />
+
+
+
+        
+        
+        
+        
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+
+    
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/ans/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/ans/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+    <link rel="shortcut icon" type="image/png" href="/ans/++theme++padrao_govbr/favicons/favicon-48x48.png" />
+    <link rel="mask-icon" href="/ans/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+    <meta name="msapplication-config" content="favicons/browserconfig.xml" />
+    <meta name="theme-color" content="#00a300" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.2/css/all.css" crossorigin="anonymous" />
+    <style>
+        body.userrole-authenticated .btn.btn-success.fileinput-button span:after {
+            content: "Adicionar Arquivos" !important;
+        }
+    </style>
+    <script type="module" id="sso-status-bar-js" src="/cdn/sso-status-bar/src/js/sso-status-bar.js"></script>
+<link href="/ans/++theme++padrao_govbr/govbrtheme-a13d586.css" rel="stylesheet" /></head>
+
+<body id="" class="default-header-template portal-institucional template-document_view portaltype-document site-pt-br section-assuntos subsection-prestadores subsection-prestadores-padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss subsection-prestadores-padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss-setembro-2024 userrole-anonymous" data-base-url="https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/setembro-2024" data-portal-url="https://www.gov.br/ans" dir="ltr">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe height="0" width="0" style="display:none;visibility:hidden" data-src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <nav class="govbr-skip-menu" aria-label="Acesso rápido">
+    <a href="#wrapper" accesskey="1">
+      <span class="sr-only">Ir para o</span>
+      Conteúdo
+      <span class="access-key">1</span>
+    </a>
+    <a href="/" accesskey="2">
+      <span class="sr-only">Ir para a</span>
+      Página Inicial
+      <span class="access-key">2</span>
+    </a>
+    <a href="#main-navigation" accesskey="3">
+      <span class="sr-only">Ir para o menu de</span>
+      Navegação
+      <span class="access-key">3</span>
+    </a>
+    <a href="#govbr-busca-input" accesskey="4">
+      <span class="sr-only">Ir para a</span>
+      Busca
+      <span class="access-key">4</span>
+    </a>
+    <a href="#portal-footer" accesskey="5">
+      <span class="sr-only">Ir para o</span>
+      Mapa do site
+      <span class="access-key">5</span>
+    </a>
+  </nav>
+
+  <noscript aria-label="Aviso de Javascript desabilitado">
+    <dl class="portalMessage attention erro-javascript">
+      <dt>Atenção!</dt>
+      <dd>Seu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.</dd>
+    </dl>
+  </noscript>
+<!-- modal session message --><!-- User --><!-- Header --><!--
+    Para habilitar o novo menu &#233; necess&#225;rio descoment&#225;-lo em:
+    govbr/institucional/viewlets/institucional_menu_govbr.pt
+    --><!-- <header id="site-header" class="has-navigation-swipe"> --><header id="site-header" class="has-navigation-dropdown">
+        <div class="header-wrapper secondary">
+            <div class="portal-name">
+                <a href="https://www.gov.br/pt-br" class="portal-logo">
+                    <span class="sr-only">Portal Gov.br</span>
+                </a>
+                <a href="https://www.gov.br/saude" class="nome-orgao">Ministério da Saúde</a>
+            </div>
+
+            
+        <div class="site-header-links">
+          <div class="links-rapidos">
+            <a class="toggle-links-rapidos" href="#">
+              <span class="fas fa-ellipsis-v"></span>
+              <span class="sr-only">Acesso rápido</span>
+            </a>
+
+            <ul>
+              <li class="titulo">Acesso rápido</li>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="https://www.gov.br/acessoainformacao/pt-br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="https://www.gov.br/governodigital/pt-br/acessibilidade-digital">Acessibilidade</a>
+              </li>
+              <!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <span class="fas fa-assistive-listening-systems"></span>
+                </a>
+              </li>-->
+            </ul>
+          </div>
+          <ul class="header-icons">
+            
+            <li>
+              <a href="#" class="reset-cookies" onclick="_redefinirCookies(); return false;">Redefinir Cookies</a>
+            </li>
+            <li>
+              <a href="#" class="link-contraste">
+                <span class="fas fa-adjust" aria-hidden="true"></span>
+                <span class="sr-only">Mudar para o modo de alto contraste</span>
+              </a>
+            </li>
+          </ul>
+
+          <sso-status-bar id="barra-sso" authorization-src="/cdn/oauth2-authorization-client-resources/src/html/oauth2-authorization-url.html" sign-out-href="/cdn/govbrportal/src/html/logout-endpoint.html" sign-in-href="/cdn/govbrportal/src/html/oauth2-authorization-url.html" cookie-monitor-cookie-name="Sso-Authenticated" cookie-monitor-src="https://sso.acesso.gov.br/session-management/html/cookie-monitor-server.html">
+            <sso-status-bar-section title="Minha conta">
+              <sso-status-bar-item title="Dados Pessoais" class="acessogov-menu-cpf" style="display: none" href="https://contas.acesso.gov.br/alteracao_cadastro">
+              </sso-status-bar-item>
+              <sso-status-bar-item title="Segurança da Conta" class="acessogov-menu-cpf" style="display: none" href="https://contas.acesso.gov.br/seguranca">
+              </sso-status-bar-item>
+              <sso-status-bar-item title="Privacidade" class="acessogov-menu-cpf" style="display: none" href="https://contas.acesso.gov.br/privacidade">
+              </sso-status-bar-item>
+              <sso-status-bar-item title="Vincular empresas via e-CNPJ" class="acessogov-menu-cnpj" style="display: none" href="https://empresas.acesso.gov.br">
+              </sso-status-bar-item>
+            </sso-status-bar-section>
+            <sso-status-bar-section title="Serviços">
+              <sso-status-bar-item title="Carteira de Documentos" class="acessogov-menu-cpf" style="display: none" href="https://servicos.acesso.gov.br/carteira">
+              </sso-status-bar-item>
+              <sso-status-bar-item title="Baixar certidões" class="acessogov-menu-cpf" style="display: none" href="https://servicos.acesso.gov.br/certidoes">
+              </sso-status-bar-item>
+              <sso-status-bar-item title="Assinar documentos digitalmente" class="acessogov-menu-cpf" style="display: none" href="https://assinador.iti.br/assinatura">
+              </sso-status-bar-item>
+              <sso-status-bar-item title="Notificações" class="acessogov-menu-cpf" style="display: none" href="https://servicos.acesso.gov.br/notificacoes">
+              </sso-status-bar-item>
+              <sso-status-bar-item title="Consultar serviços solicitados" class="acessogov-menu-cpf" style="display: none" href="https://servicos.acesso.gov.br/consultarservicossolicitados">
+              </sso-status-bar-item>
+              <sso-status-bar-item title="Agenda GOV.BR" href="https://servicos.acesso.gov.br/agenda">
+              </sso-status-bar-item>
+              <sso-status-bar-item title="Ajuda da conta gov.br" href="https://www.gov.br/governodigital/pt-br/conta-gov-br/ajuda-da-conta-gov.br">
+              </sso-status-bar-item>
+            </sso-status-bar-section>
+          </sso-status-bar>
+        </div>
+      
+
+        </div>
+
+        <div class="main">
+            <div class="header-wrapper">
+
+                <div class="site-name-wrapper">
+                    <a class="ico-navegacao toggle-main-navigation" href="#">
+                        <span class="sr-only">Abrir menu principal de navegação</span>
+                        <span class="fa fa-bars" aria-hidden="true"></span>
+                        <span class="fa fa-times" aria-hidden="true"></span>
+                    </a>
+
+                    <!-- <a href="/" class="site-name">Nome do site</a> -->
+                    <!-- Usar nome completo -->
+                    
+                    <div class="site-name">
+                        <a href="https://www.gov.br/ans/pt-br">Agência Nacional de Saúde Suplementar</a>
+                    </div>
+                </div>
+
+                
+            <div class="termos-mais-buscados desktop">
+                <section class="source-termos-mais-buscados">
+                    <div class="source-header-termos-mais-buscados">
+                        Termos mais buscados
+                    </div>
+                    <ul class="list-termos-mais-buscados">
+                        
+                            <li class="item-termos-mais-buscados">
+                                <a href="https://www.gov.br/ans/pt-br/search?SearchableText=assinatura">
+                                   <span class="fa-solid fa-arrow-trend-up"></span>
+                                   assinatura
+                                </a>
+                            </li>
+                        
+                            <li class="item-termos-mais-buscados">
+                                <a href="https://www.gov.br/ans/pt-br/search?SearchableText=inss">
+                                   <span class="fa-solid fa-arrow-trend-up"></span>
+                                   inss
+                                </a>
+                            </li>
+                        
+                            <li class="item-termos-mais-buscados">
+                                <a href="https://www.gov.br/ans/pt-br/search?SearchableText=imposto de renda">
+                                   <span class="fa-solid fa-arrow-trend-up"></span>
+                                   imposto de renda
+                                </a>
+                            </li>
+                        
+                            <li class="item-termos-mais-buscados">
+                                <a href="https://www.gov.br/ans/pt-br/search?SearchableText=valores a receber">
+                                   <span class="fa-solid fa-arrow-trend-up"></span>
+                                   valores a receber
+                                </a>
+                            </li>
+                        
+                            <li class="item-termos-mais-buscados">
+                                <a href="https://www.gov.br/ans/pt-br/search?SearchableText=mei">
+                                   <span class="fa-solid fa-arrow-trend-up"></span>
+                                   mei
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </section>
+            </div>
+            <div class="termos-mais-buscados mobile">
+                <section class="source-termos-mais-buscados">
+                    <div class="source-header-termos-mais-buscados">
+                        Termos mais buscados
+                    </div>                                
+                    <ul class="list-termos-mais-buscados">
+                        
+                            <li class="item-termos-mais-buscados">
+                                <a href="https://www.gov.br/ans/pt-br/search?SearchableText=assinatura">
+                                    <span class="fa-solid fa-arrow-trend-up"></span>
+                                    assinatura
+                                </a>
+                            </li>
+                        
+                            <li class="item-termos-mais-buscados">
+                                <a href="https://www.gov.br/ans/pt-br/search?SearchableText=inss">
+                                    <span class="fa-solid fa-arrow-trend-up"></span>
+                                    inss
+                                </a>
+                            </li>
+                        
+                            <li class="item-termos-mais-buscados">
+                                <a href="https://www.gov.br/ans/pt-br/search?SearchableText=imposto de renda">
+                                    <span class="fa-solid fa-arrow-trend-up"></span>
+                                    imposto de renda
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </section>
+            </div>
+        <div class="govbr-busca-header">
+                    <div id="govbr-busca-input">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Main Menu -->
+        <nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal">
+            <div class="navigation-content">
+                <div id="main-navigation" class="navigation-cell">
+                    <ul class="list-navigation"><li class="selected dropdown-submenu"><a href="https://www.gov.br/ans/pt-br/assuntos" class="plain">Assuntos</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias" class="state-published hasDropDown">
+            
+            Notícias
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/sobre-ans" class="state-published">
+            
+            Sobre a ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/beneficiario" class="state-published">
+            
+            Consumidor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/licitacao" class="state-published">
+            
+            Licitação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/sociedade" class="state-published">
+            
+            Participação da Sociedade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/operadoras" class="state-published">
+            
+            Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/integracao-com-SUS" class="state-published">
+            
+            Integração com SUS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/qualidade-da-saude" class="state-published">
+            
+            Qualidade da Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/numeros-do-setor" class="state-published">
+            
+            Números do Setor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/covid-19" class="state-published">
+            
+            Covid-19
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor" class="state-published hasDropDown">
+            
+            Espaço do Consumidor
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/caminho-do-consumidor-1" class="state-published">
+            
+            Caminho do consumidor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/caminho-do-consumidor-1/cartilhas-para-o-consumidor" class="state-published">
+            
+            Cartilhas para o consumidor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratacao-e-troca-de-plano" class="state-published">
+            
+            Contratação e Troca de Plano
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratacao-e-troca-de-plano/orientacoes-sobre-troca-ou-ingresso-em-planos-de-saude-sem-cumprimento-de-carencias-1/portabilidade-de-carencias" class="state-published">
+            
+            Portabilidade de Carências
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/o-que-o-seu-plano-de-saude-deve-cobrir-1" class="state-published">
+            
+            O que o seu plano de saúde deve cobrir?
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/reajuste-variacao-de-mensalidade" class="state-published">
+            
+            Reajuste/Variação de mensalidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/prazos-maximos-de-atendimento" class="state-published">
+            
+            Prazos máximos de atendimento
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/carencia" class="state-published">
+            
+            Carência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/o-que-o-seu-plano-de-saude-deve-cobrir-1/reembolso" class="state-published">
+            
+            Reembolso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/aposentados-e-demitidos" class="state-published">
+            
+            Aposentados e demitidos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/dados-cadastrais-do-consumidor" class="state-published">
+            
+            Dados Cadastrais do Consumidor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/processos-do-consumidor" class="state-published">
+            
+            Acompanhe seu processo
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/acompanhamento-de-solicitacoes-2" class="state-published">
+            
+            Acompanhamento de Solicitações
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/parto-na-saude-suplementar-conheca-seus-direitos" class="state-published">
+            
+            Parto na saúde suplementar – Conheça seus direitos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/canais-de-atendimento-ao-consumidor" class="state-published">
+            
+            Canais de Atendimento ao Consumidor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores/qualiss-programa-de-qualificacao-dos-prestadores-de-servicos-de-saude-1" class="state-published">
+            
+            Qualidade de Hospitais, Clínicas, Laboratórios e Profissionais de Saúde
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/informacoes-e-avaliacoes-de-operadoras" class="state-published hasDropDown">
+            
+            Informações e Avaliações de Operadoras
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="http://www.ans.gov.br/ConsultaPlanosConsumidor" class="state-published">
+            
+            Consultar dados e planos da operadora
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/informacoes-e-avaliacoes-de-operadoras/qualificacao-ans" class="state-published">
+            
+            Programa de Qualificação de Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/informacoes-e-avaliacoes-de-operadoras/indice-de-reclamacoes-2" class="state-published">
+            
+            Dados e Índices de Reclamações
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/informacoes-e-avaliacoes-de-operadoras/acreditacao-de-operadoras-1" class="state-published">
+            
+            Acreditação de Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="http://www.ans.gov.br/index.php?option=com_regimeespecial&amp;amp;view=consulta" class="state-published">
+            
+            Operadoras em Regime Especial de Liquidação e em Falência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/informacoes-e-avaliacoes-de-operadoras/indice-de-efetivo-pagamento-ao-ressarcimento-ao-sus-antigo-indice-de-adimplencia-de-ressarcimento-ao-sus-1" class="state-published">
+            
+            Índice de Efetivo Pagamento ao Ressarcimento ao SUS (antigo Índice de Adimplência de Ressarcimento ao SUS)
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/informacoes-e-avaliacoes-de-operadoras/taxas-de-partos-cesareos-por-operadora-de-plano-de-saude" class="state-published">
+            
+            Taxas de partos cesáreos por operadora de plano de saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/informacoes-e-avaliacoes-de-operadoras/monitoramento-de-garantia-de-atendimento" class="state-published">
+            
+            Monitoramento da Garantia de Atendimento
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras" class="state-published hasDropDown">
+            
+            Espaço da Operadora de Plano de Saúde
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/avisos-para-operadoras" class="state-published">
+            
+            Avisos para Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://componentes-portal.ans.gov.br/link/CalendarioOperadoras" class="state-published">
+            
+            Calendário das Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/registro-e-manutencao-de-produtos" class="state-published">
+            
+            Registro e Manutenção de Produtos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/compromissos-e-interacoes-com-a-ans-1" class="state-published">
+            
+            Compromissos e Interações com a ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/aplicativos-ans-2" class="state-published">
+            
+            Aplicativos ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/acompanhamento-de-processos-1" class="state-published">
+            
+            Acompanhamento de Processos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="http://www.ans.gov.br/planos-de-saude-e-operadoras/espaco-da-operadora/busca-de-resolucoes-operacionais" class="state-published">
+            
+            Busca de Resoluções Operacionais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/central-de-atendimento-a-operadoras-e-prestadores" class="state-published">
+            
+            Central de Atendimento a Operadoras e Prestadores
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.ans.gov.br/index.php?option=com_acessooperadora&amp;view=login" class="state-published">
+            
+            Atendimento a Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/relacionamento-com-o-cliente-1" class="state-published">
+            
+            Relacionamento com o Cliente
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/regulacao-prudencial-acompanhamento-assistencial-e-economico-financeiro" class="state-published">
+            
+            Regulação Prudencial, Acompanhamento Assistencial e Econômico-Financeiro
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/acoes-de-fiscalizacao" class="state-published">
+            
+            Ações de Fiscalização
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/relacionamento-com-os-prestadores" class="state-published">
+            
+            Relacionamento com os Prestadores
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratacao-e-troca-de-plano" class="state-published hasDropDown">
+            
+            Contratação e Troca de Plano
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratacao-e-troca-de-plano/dicas-de-como-escolher-um-plano-de-saude-1" class="state-published">
+            
+            Dicas de como escolher um plano de saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratacao-e-troca-de-plano/orientacoes-sobre-troca-ou-ingresso-em-planos-de-saude-sem-cumprimento-de-carencias" class="state-published">
+            
+            Portabilidade de carências e outras formas de ingressar num plano sem carências ou CPT
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratacao-e-troca-de-plano/guia-ans-de-planos-de-saude-1" class="state-published">
+            
+            Guia ANS de Planos de Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratacao-e-troca-de-plano/consultar-dados-e-planos-da-operadora" class="state-published">
+            
+            Consultar dados e planos da operadora
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores" class="state-published hasDropDown">
+            
+            Espaço do Prestador de Serviços de Saúde
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss" class="state-published">
+            
+            TISS - Padrão para Troca de Informação de Saúde Suplementar
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores/fator-de-qualidade-1" class="state-published">
+            
+            Contrato entre operadoras e prestadores
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores/central-de-atendimento-a-prestadores" class="state-published">
+            
+            Central de Atendimento a Prestadores
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores/qualiss-programa-de-qualificacao-dos-prestadores-de-servicos-de-saude-1" class="state-published">
+            
+            QUALISS - Programa de Qualificação dos Prestadores de Serviços de Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude/parto-adequado-1" class="state-published">
+            
+            Movimento Parto Adequado
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/camaras-e-grupos-tecnicos/grupo-de-trabalho-de-relacionamento-com-prestadores-de-servicos-de-saude" class="state-published">
+            
+            GT RE-DIDES
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores/qualiss-programa-de-qualificacao-dos-prestadores-de-servicos-de-saude-1/monitoramento-da-qualidade-hospitalar" class="state-published">
+            
+            Programa de Monitoramento da Qualidade Hospitalar - PM - Qualiss
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude" class="state-published hasDropDown">
+            
+            Gestão em Saúde
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude/programa-de-certificacao-de-boas-praticas-em-atencao-a-saude-1" class="state-published">
+            
+            Programa de Certificação de Boas Práticas em Atenção à Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude/projeto-oncorede-1" class="state-published">
+            
+            Projeto OncoRede
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude/parto-adequado-1" class="state-published">
+            
+            Parto Adequado
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores/qualiss-programa-de-qualificacao-dos-prestadores-de-servicos-de-saude-1" class="state-published">
+            
+            QUALISS - Programa de Qualificação dos Prestadores de Serviços de Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude/projeto-enfrentamento-da-obesidade-e-do-sobrepeso" class="state-published">
+            
+            Projeto Enfrentamento da Obesidade e do Sobrepeso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude/projeto-modelos-de-remuneracao-baseados-em-valor" class="state-published">
+            
+            Projeto Modelos de Remuneração Baseados em Valor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude/programas-de-promocao-da-saude-e-prevencao-de-riscos-e-doencas" class="state-published">
+            
+            Programas de Promoção da Saúde e Prevenção de Riscos e Doenças
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratante" class="state-published hasDropDown">
+            
+            Espaço do Contratante de Plano Coletivo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratante/contratacao-regras-planos-de-saude" class="state-published">
+            
+            Contratação e Regras dos Planos de Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratante/legislacao-regulacao-em-saude-complementar" class="state-published">
+            
+            Legislação Regulação em Saúde Suplementar
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude" class="state-published">
+            
+            Gestão em Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratante/prestadores-de-servico-de-saude" class="state-published">
+            
+            Prestadores de Serviço de Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratante/dados-importantes-para-contratacao" class="state-published">
+            
+            Dados Importantes para Contratação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratante/avaliacao-das-operadoras" class="state-published">
+            
+            Avaliação das Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/canais-de-atendimento-ao-consumidor" class="state-published">
+            
+            Sugestões e Dúvidas
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/ans/pt-br/acesso-a-informacao" class="plain">Acesso à Informação</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional" class="state-published hasDropDown">
+            
+            Institucional
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/quem-somos-1" class="state-published">
+            
+            Quem somos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/estrutura-organizacional-2" class="state-published">
+            
+            Estrutura Organizacional
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/competencias" class="state-published">
+            
+            Competências
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/quem-e-quem-1" class="state-published">
+            
+            Quem é quem
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/arquivos/composicao/organograma_ans_geral_setembro_2024-1.pdf" class="state-published">
+            
+            Organograma
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/nossos-enderecos" class="state-published">
+            
+            Núcleos da ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/selo-ans" class="state-published">
+            
+            Selo ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/ans-digital-1" class="state-published">
+            
+            ANS Digital
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/orgaos/agencia-nacional-de-saude-suplementar" class="state-published">
+            
+            Carta de serviços
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/eventos" class="state-published">
+            
+            Eventos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/movimentacao-de-pessoal" class="state-published">
+            
+            Movimentação de pessoal
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/comissao-de-etica" class="state-published">
+            
+            Comissão de ética
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/corregedoria" class="state-published">
+            
+            Corregedoria
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/comunicacao-e-imprensa" class="state-published">
+            
+            Comunicação e Imprensa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/programa-de-estagio" class="state-published">
+            
+            Programa de Estágio
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/programa-de-gestao" class="state-published">
+            
+            Programa de Gestão
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/conselho-de-saude-suplementar-consu" class="state-published">
+            
+            Conselho de Saúde Suplementar - Consu
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas" class="state-published hasDropDown">
+            
+            Transparência e Prestação de Contas
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/reunioes-da-diretoria-da-ans" class="state-published">
+            
+            Reuniões da Diretoria da ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/planejamento-estrategico-ans-2021-2025" class="state-published">
+            
+            Planejamento Estratégico ANS 2021-2025
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/agenda-regulatoria" class="state-published">
+            
+            Agenda Regulatória
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/plano-de-gestao-anual" class="state-published">
+            
+            Plano de Gestão Anual
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/prestacao-de-contas" class="state-published">
+            
+            Prestação de Contas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/acoes-e-programas/governanca/gestao-de-riscos" class="state-published">
+            
+            Gestão de Riscos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/plano-de-comunicacao-institucional" class="state-published">
+            
+            Plano de Comunicação Institucional
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/documentos-tecnicos-da-ans-1" class="state-published">
+            
+            Documentos Técnicos da ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/plano-diretor-de-tecnologia-da-informacao-e-comunicacao" class="state-published">
+            
+            PDTIC
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/planos-de-gestao-de-logistica-sustentavel" class="state-published">
+            
+            Governança e Responsabilidade Socioambiental (ESG)
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="http://www.ans.gov.br/index.php?option=com_legislacao&amp;amp;view=entendimento" class="state-published">
+            
+            Busca de Entendimentos da DIFIS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/acordos-de-cooperacao-tecnica" class="state-published">
+            
+            Acordos de Cooperação Técnica
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/parceiros-da-cidadania" class="state-published">
+            
+            Parceiros da Cidadania
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/acoes-de-capacitacao" class="state-published">
+            
+            Ações de Capacitação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/relatorio-de-atividades" class="state-published">
+            
+            Relatório de Atividades
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/programa-de-gestao-estrategica-e-transformacao-do-estado-transformagov" class="state-published">
+            
+            TransformaGov
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/rol-de-responsaveis" class="state-published">
+            
+            Rol de Responsáveis
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/cadeia-de-valor" class="state-published">
+            
+            Cadeia de Valor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/monitoramento-e-avaliacao-da-estrategia" class="state-published">
+            
+            Monitoramento e Avaliação da Estratégia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/analise-de-impacto-regulatorio-air" class="state-published">
+            
+            Análise de Impacto Regulatório (AIR)
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/agenda-de-avaliacao-de-resultado-regulatorio-arr" class="state-published">
+            
+            Avaliação de Resultado Regulatório - ARR
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/relatorios-de-air" class="state-published">
+            
+            Relatórios de (AIR)
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/atos-normativos-que-tiveram-dispensa-de-air" class="state-published">
+            
+            Dispensas de AIR
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/programa-de-qualificacao-institucional" class="state-published">
+            
+            Programa de Qualificação Institucional
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/agenda-de-autoridades-1" class="state-published">
+            
+            Agenda de Autoridades
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/acoes-e-programas" class="state-published hasDropDown">
+            
+            Ações e Programas
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/acoes-e-programas/lista-de-programas-e-acoes-da-ans" class="state-published">
+            
+            Lista de Programas e Ações da ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/acoes-e-programas/metas-e-indicadores-de-impacto" class="state-published">
+            
+            Metas e Indicadores de Impacto
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/orgaos/agencia-nacional-de-saude-suplementar" class="state-published">
+            
+            Carta de Serviços
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/acoes-e-programas/governanca" class="state-published">
+            
+            Governança
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade" class="state-published hasDropDown">
+            
+            Participação Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/agenda-regulatoria" class="state-published">
+            
+            Agenda Regulatória
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/audiencias-publicas" class="state-published">
+            
+            Audiências Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/camara-de-saude-suplementar" class="state-published">
+            
+            CAMSS - Câmara de Saúde Suplementar
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/camaras-e-grupos-tecnicos" class="state-published">
+            
+            Câmaras e Grupos Técnicos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/consultas-publicas" class="state-published">
+            
+            Consultas Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/comites-e-comissoes-1" class="state-published">
+            
+            Comitês e Comissões
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/reunioes-tecnicas-1" class="state-published">
+            
+            Reuniões Técnicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos" class="state-published">
+            
+            Atualização do Rol de Procedimentos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/ouvidoria-1" class="state-published">
+            
+            Ouvidoria
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://componentes-portal.ans.gov.br/link/TomadaPublica" class="state-published">
+            
+            Tomada Pública de Subsídios (TPS)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/convenios-e-transferencias" class="state-published">
+            
+            Convênios e Transferências
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/receitas-e-despesas" class="state-published hasDropDown">
+            
+            Receitas e Despesas
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/receitas-e-despesas/ordem-cronologica-de-pagamentos" class="state-published">
+            
+            Ordem Cronológica de Pagamentos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/licitacoes-e-contratos" class="state-published hasDropDown">
+            
+            Licitações e Contratos
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/licitacoes-e-contratos/termos-de-execucao-descentralizada-TED" class="state-published">
+            
+            Termos de Execução Descentralizada - TED
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/licitacoes-e-contratos/chamamento_publico_compartilhado" class="state-published">
+            
+            Chamamento Público Compartilhado
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://componentes-portal.ans.gov.br/link/LicitacoesAbertas" class="state-published">
+            
+            Licitações
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://componentes-portal.ans.gov.br/link/ContratosVigentes" class="state-published">
+            
+            Contratos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/servidores" class="state-published hasDropDown">
+            
+            Servidores
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/servidores/passo-a-passo-para-acesso-ao-portal-da-transparencia" class="state-published">
+            
+            Passo a passo para acesso ao Portal da Transparência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.servidor.gov.br/" class="state-published">
+            
+            Portal do Servidor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/servidores/concursos-publicos-1/concursos-publicos" class="state-published">
+            
+            Concursos Públicos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.portaltransparencia.gov.br/servidores/consulta?paginacaoSimples=true&amp;tamanhoPagina=&amp;offset=&amp;direcaoOrdenacao=asc&amp;colunasSelecionadas=detalhar%2Ctipo%2Ccpf%2Cnome%2CorgaoServidorExercicio%2CorgaoServidorLotacao%2Cmatricula%2CtipoVinculo%2Cfuncao&amp;orgaosServidorLotacao=OR36208&amp;ordenarPor=nome&amp;direcao=asc" class="state-published">
+            
+            Listagem de Servidores
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/arquivos/acesso-a-informacao/servidores/planilhaterceirizados__ANS_JANEIRO_2024__Site_da_ANS.xls" class="state-published">
+            
+            Listagem de Colaboradores Terceirizados
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/servidores/passo-a-passo-para-acesso-ao-portal-da-transparencia" class="state-published">
+            
+            Portal da Transparência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.ans.gov.br/portal-interno" class="state-published">
+            
+            Sistemas Institucionais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.ans.gov.br/sif-teletrabalho/" class="state-published">
+            
+            SIF - Teletrabalho
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/canais-de-atendimento-ao-consumidor" class="state-published">
+            
+            Perguntas Frequentes
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/servico-de-informacao-ao-cidadao-sic" class="state-published">
+            
+            Serviço de Informação ao Cidadão - SIC
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/informacoes-classificadas-e-desclassificadas" class="state-published">
+            
+            Informações Classificadas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/acessoainformacao/pt-br" class="state-published">
+            
+            Sobre a Lei de Acesso à Informação
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor" class="state-published hasDropDown">
+            
+            Dados do Setor
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-e-indicadores-do-setor" class="state-published">
+            
+            Dados e Indicadores do Setor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-gerais" class="state-published">
+            
+            Dados Gerais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.ans.gov.br/index.php?option=com_legislacao&amp;view=mais_vistas%27" class="state-published">
+            
+            Normas mais acessadas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-abertos-1" class="state-published">
+            
+            Dados Abertos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/tratamento-de-dados-pessoais" class="state-published hasDropDown">
+            
+            Tratamento de Dados Pessoais
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/tratamento-de-dados-pessoais/relatorios-orgaos-de-controle" class="state-published">
+            
+            Relatórios dos Órgãos de Controle
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/tratamento-de-dados-pessoais/termo-de-uso-e-aviso-de-privacidade-ans-movel" class="state-published">
+            
+            Termo de Uso e Aviso de Privacidade - ANS-Móvel
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/tratamento-de-dados-pessoais/compartilhamento-de-dados" class="state-published">
+            
+            Compartilhamento de Dados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/auditorias" class="state-published hasDropDown">
+            
+            Auditorias
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/auditorias/auditoria-interna" class="state-published">
+            
+            Auditoria Interna
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/prestacao-de-contas/contas-publicas" class="state-published">
+            
+            Contas públicas - Prestação de Contas Anual
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/guia-de-planos" class="state-published">
+            
+            Guia de Planos
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/ans/pt-br/composicao" class="plain">Composição</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/dicol" class="state-published hasDropDown">
+            
+            DICOL - Diretoria Colegiada
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/dicol/presidencia" class="state-published">
+            
+            PRESI - Presidência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/dicol/dides-diretoria-de-desenvolvimento-setorial" class="state-published">
+            
+            DIDES - Diretoria de Desenvolvimento Setorial
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/dicol/diope-diretoria-de-normas-e-habilitacao-das-operadoras" class="state-published">
+            
+            DIOPE - Diretoria de Normas e Habilitação das Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/dicol/dipro-diretoria-de-normas-e-habilitacao-dos-produtos" class="state-published">
+            
+            DIPRO - Diretoria de Normas e Habilitação dos Produtos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/dicol/difis-diretoria-de-fiscalizacao" class="state-published">
+            
+            DIFIS - Diretoria de Fiscalização
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/dicol/diges-diretoria-de-gestao" class="state-published">
+            
+            DIGES - Diretoria de Gestão
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/vinc-orgaos-vinculados" class="state-published hasDropDown">
+            
+            VINC - Órgãos Vinculados
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/vinc-orgaos-vinculados/audit-auditoria-interna" class="state-published">
+            
+            AUDIT - Auditoria Interna
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/vinc-orgaos-vinculados/camss-camara-de-saude-suplementar" class="state-published">
+            
+            CAMSS - Câmara de Saúde Suplementar
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/vinc-orgaos-vinculados/ceans-comissao-de-etica" class="state-published">
+            
+            CEANS - Comissão de Ética
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/vinc-orgaos-vinculados/ouvid-ouvidoria" class="state-published">
+            
+            OUVID - Ouvidoria
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/vinc-orgaos-vinculados/ppcor-corregedoria" class="state-published">
+            
+            PPCOR - Corregedoria
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/vinc-orgaos-vinculados/proge-procuradoria-federal-junto-a-ans" class="state-published">
+            
+            PROGE - Procuradoria Federal Junto à ANS
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo" class="plain">Centrais de Conteúdo</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/publicacoes" class="state-published hasDropDown">
+            
+            Legislação
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.ans.gov.br/index.php?option=com_legislacao&amp;view=legislacao" class="state-published">
+            
+            Busca de Legislação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.ans.gov.br/index.php?option=com_legislacao&amp;view=indice" class="state-published">
+            
+            Índice Temático
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/publicacoes/elaboracao-das-normas-da-saude-suplementar" class="state-published">
+            
+            Elaboração das Normas da Saúde Suplementar
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiMDJmYTk1NTAtNGNjNi00MDM1LWFhMTgtNjBjNGM2M2VmMTgyIiwidCI6IjlkYmE0ODBjLTRmYTctNDJmNC1iYmEzLTBmYjEzNzVmYmU1ZiJ9" class="state-published">
+            
+            Atos normativos da ANS
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/biblioteca" class="state-published hasDropDown">
+            
+            Biblioteca
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="http://www.ans.gov.br/index.php?option=com_glossario&amp;amp;view=termos" class="state-published">
+            
+            Glossário Temático da Saúde Suplementar
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="http://www.ans.gov.br/biblioteca/index.html" class="state-published">
+            
+            Biblioteca ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/biblioteca/relatorios-de-gestao-da-ans" class="state-published">
+            
+            Relatórios de Gestão da ANS
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras" class="state-published hasDropDown">
+            
+            Manuais do Portal Operadoras
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/acesso-e-gestao-de-usuarios-no-portal-operadoras" class="state-published">
+            
+            Acesso e Gestão de Usuários no Portal Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/area-do-desenvolvedor" class="state-published">
+            
+            Área do Desenvolvedor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/copy_of_alteracao-de-rede-hospitalar" class="state-published">
+            
+            Alteração de Rede Hospitalar
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/financeiro" class="state-published">
+            
+            Financeiro
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/gear-gestao-eletronica-de-autorizacao-de-reajuste" class="state-published">
+            
+            GEAR - Gestão Eletrônica de Autorização de Reajuste
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/guia-ans-de-planos-de-saude" class="state-published">
+            
+            Guia ANS de Planos de Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/manual-de-instalacao-historico-de-versao-e-outros-arquivos-arps" class="state-published">
+            
+            Manual de instalação, histórico de versão e outros arquivos - ARPS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/manual-de-instalacao-historico-de-versao-e-outros-arquivos-scpa" class="state-published">
+            
+            Manual de instalação, histórico de versão e outros arquivos - SCPA
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/manual-de-instalacao-historico-de-versao-e-outros-arquivos-pta" class="state-published">
+            
+            Manual de instalação, histórico de versão e outros arquivos - PTA
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/protocolo-eletronico" class="state-published">
+            
+            Protocolo Eletrônico
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/reajuste-de-planos-coletivos-rpc" class="state-published">
+            
+            Reajuste de planos coletivos - RPC
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/sistema-de-cadastro-das-operadoras-2013-cadop" class="state-published">
+            
+            Sistema de Cadastro das Operadoras – CADOP
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/sib-manual-de-instalacao-historico-de-versao-e-outros-arquivos" class="state-published">
+            
+            SIB - Manual de instalação, histórico de versão e outros arquivos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/sip-manual-de-instalacao-historico-de-versao-e-outros-arquivos" class="state-published">
+            
+            SIP - Manual de Orientação e Outros Documentos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/visualizacao-de-processos" class="state-published">
+            
+            Visualização de Processos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manual-das-acreditadoras" class="state-published hasDropDown">
+            
+            Manual das Acreditadoras
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manual-das-acreditadoras/manual-de-autenticacao-qualiss" class="state-published">
+            
+            Manual de autenticação QUALISS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manual-das-acreditadoras/manual-de-integracao-qualiss" class="state-published">
+            
+            Manual de integração QUALISS
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiMDJmYTk1NTAtNGNjNi00MDM1LWFhMTgtNjBjNGM2M2VmMTgyIiwidCI6IjlkYmE0ODBjLTRmYTctNDJmNC1iYmEzLTBmYjEzNzVmYmU1ZiJ9" class="state-published">
+            
+            Atos normativos da ANS
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/ans/pt-br/canais_atendimento" class="plain">Canais de Atendimento</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/nossos-enderecos" class="state-published">
+            
+            Núcleos da ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/canais-de-atendimento-ao-consumidor" class="state-published">
+            
+            Canais de Atendimento ao Consumidor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/central-de-atendimento-a-operadoras-e-prestadores" class="state-published">
+            
+            Central de Atendimento a Operadoras e Prestadores
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/servico-de-informacao-ao-cidadao-sic" class="state-published">
+            
+            Serviço de Informação ao Cidadão - SIC
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/ouvidoria-1" class="state-published hasDropDown">
+            
+            Ouvidoria
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/ouvidoria-1/atribuicoes-da-ouvidoria" class="state-published">
+            
+            Atribuições da Ouvidoria
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/ouvidoria-1/relatorios-e-pesquisas" class="state-published">
+            
+            Relatórios e Pesquisas da Ouvidoria
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/ouvidoria-1/legislacao-da-ouvidoria" class="state-published">
+            
+            Legislação da Ouvidoria
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/ouvidoria-1/espaco-ouvidorias-1" class="state-published">
+            
+            Espaço Ouvidorias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="http://www.ans.gov.br/externo/site_novo/fale_ans/licitacoes.asp" class="state-published">
+            
+            Fale sobre licitações
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/sala-de-imprensa" class="state-published hasDropDown">
+            
+            Sala de Imprensa
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/sala-de-imprensa/releases" class="state-published">
+            
+            Releases
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/sala-de-imprensa/ans-na-midia" class="state-published">
+            
+            ANS na mídia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/sala-de-imprensa/videos-1" class="state-published">
+            
+            Vídeos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/sala-de-imprensa/podcasts" class="state-published">
+            
+            Podcasts
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/sala-de-imprensa/publicidade" class="state-published">
+            
+            Publicidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/sala-de-imprensa/posicionamentos" class="state-published">
+            
+            Comunicados e Posicionamentos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/sala-de-imprensa/galeria" class="state-published">
+            
+            Galeria
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li id="portaltab-govbr-root" class="plain dropdown-submenu menu-govbr-root">
+            <a class="plain" href="https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/setembro-2024">
+                <span>GOV.BR</span>
+            </a>
+            <!-- Menu nivel1 -->
+            <ul class="submenu navTree">
+                
+                    <li class="dropdown-submenu">
+                        <a href="https://www.gov.br/pt-br/servicos" class="hasDropDown">Serviços</a>
+                        
+                            
+    <ul class="submenu navTree">
+        
+            <li class="dropdown-submenu">
+                <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por">Buscar serviços por</a>
+                
+                    
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/categorias">Categorias</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/listar_orgaos">Órgãos</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos-estaduais">Estados</a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li class="dropdown-submenu">
+                <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo">Serviços por público alvo</a>
+                
+                    
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos">Cidadãos</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas">Empresas</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos">Órgãos e Entidades Públicas</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros">Demais segmentos (ONGs, organizações sociais, etc)</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor">Servidor Público</a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="dropdown-submenu">
+                        <a href="https://www.gov.br/pt-br/temas-em-destaque" class="hasDropDown">Temas em Destaque</a>
+                        
+                            
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/temas/transparencia-fiscal-orcamento-nacional">Orçamento Nacional</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/temas/redes-civis-de-unidades-de-atendimento-do-governo-federal">Redes de Atendimento do Governo Federal</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/temas/protecao-de-dados-pessoais">Proteção de Dados Pessoais</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/temas/servicos-para-imigrantes">Serviços para Imigrantes</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/temas/politica-e-orcamento-educacional">Política e Orçamento Educacionais</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/temas/bolsas-de-estudos-e-financiamentos-estudantis">Bolsas de Estudo e Financiamentos Estudantis</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/temas/educacao-profissional-e-tecnologica-1">Educação Profissional e Tecnológica</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/temas/habilidades-online-para-jovens-e-adultos">Educação Profissional para Jovens e Adultos</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/temas/trabalho-emprego">Trabalho e Emprego</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/temas/acesso-a-educacao-para-pessoas-com-deficiencia">Serviços para Pessoas com Deficiência</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/temas/politica-e-legislacao-contra-a-discriminacao-racial">Combate à Discriminação Racial</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/temas/politica-e-orcamento-de-protecao-social">Política de Proteção Social</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/temas/politica-para-mulheres">Política para Mulheres</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/temas/saude-reprodutiva-da-mulher">Saúde Reprodutiva da Mulher</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/temas/desenvolvimento-cuidados-e-educacao-pre-escolar">Cuidados na Primeira Infância</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/temas/habitacao-popular">Habitação Popular</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/temas/controle-da-poluicao-e-outras-medidas-de-precaucao">Controle de Poluição e Resíduos Sólidos</a>
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="dropdown-submenu">
+                        <a href="https://www.gov.br/pt-br/noticias" class="hasDropDown">Notícias</a>
+                        
+                            
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao">Serviços para o cidadão</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria">Saúde</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria">Agricultura e Pecuária</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/assistencia-social">Cidadania e Assistência Social</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/ciencia-e-tecnologia">Ciência e Tecnologia</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/comunicacao">Comunicação</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes">Cultura e Esporte</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica">Economia e Gestão Pública</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa">Educação e Pesquisa</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis">Energia</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/forcas-armadas">Forças Armadas e Defesa Civil</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes">Infraestrutura</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca">Justiça e Segurança</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima">Meio Ambiente</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia">Trabalho e Previdência</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo">Turismo</a>
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" class="hasDropDown">Galeria de Aplicativos</a>
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="/planalto" class="hasDropDown">Acompanhe o Planalto</a>
+                        
+                    </li>
+                
+                    <li class="dropdown-submenu">
+                        <a href="https://www.gov.br/pt-br/navegacao" class="hasDropDown">Navegação</a>
+                        
+                            
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/governodigital/pt-br/acessibilidade-digital">Acessibilidade</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/sitemap">Mapa do Site</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="/pt-br/termos-de-uso">Termo de Uso e Aviso de Privacidade</a>
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-plataforma-de-automacao/cidadao/consultar-as-minhas-solicitacoes" class="hasDropDown">Consultar minhas solicitações</a>
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="hasDropDown">Órgãos do Governo</a>
+                        
+                    </li>
+                
+                    <li class="dropdown-submenu">
+                        <a href="https://www.gov.br/pt-br/por-dentro-do-govbr" class="hasDropDown">Por dentro do Gov.br</a>
+                        
+                            
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/por-dentro-do-govbr/perguntas-frequentes">Dúvidas Frequentes em relação ao Portal gov.br</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="http://faq-login-unico.servicos.gov.br/en/latest/">Dúvidas Frequentes da conta gov.br</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/por-dentro-do-govbr/ajuda-para-navegar-o-portal">Ajuda para Navegar o Portal</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/por-dentro-do-govbr/conheca-os-elementos-do-portal">Conheça os elementos do Portal</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/participamaisbrasil/sobre">Política de e-participação</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="/pt-br/termos-de-uso">Termos de Uso</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/governodigital/pt-br">Governo Digital</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor">Guia de Edição de Serviços do Portal Gov.br</a>
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="https://www.gov.br/pt-br/canais-do-executivo-federal" class="hasDropDown">Canais do Executivo Federal</a>
+                        
+                    </li>
+                
+                    <li class="dropdown-submenu">
+                        <a href="https://www.gov.br/pt-br/dados-do-governo-federal" class="hasDropDown">Dados do Governo Federal</a>
+                        
+                            
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="/governodigital/pt-br/dados-abertos">Dados Abertos</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/gestao/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal">Painel Estatístico de Pessoal</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="http://paineldecompras.economia.gov.br">Painel de Compras do Governo Federal</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/acessoainformacao/pt-br">Acesso à Informação</a>
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="https://www.gov.br/empresas-e-negocios/pt-br" class="hasDropDown">Empresas e Negócios</a>
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="https://www.gov.br/fazenda/pt-br/canais_atendimento/ouvidoria/simplifique/simplifique" class="hasDropDown">Simplifique!</a>
+                        
+                    </li>
+                
+            </ul>
+        </li></ul>
+                </div>
+            </div>
+
+            <div class="navigation-content-extra">
+                <div class="links-redes-wrap">
+            <div class="links-uteis">
+              <div class="titulo">Links Úteis</div>
+              <ul>
+                <!-- <li>
+                  <a href="#">Órgãos do Governo</a>
+                </li> -->
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="header-accessibility">
+              <ul>
+                <!--li>
+                  <a
+                    href="https://www.gov.br/pt-br/orgaos-do-governo"
+                    class="orgaos-de-governo"
+                    i18n:translate="orgaos_do_governo"
+                    >Órgãos do Governo</a
+                  >
+                </li-->
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <!--li>
+                  <a href="http://www4.planalto.gov.br/legislacao" i18n:translate="legislacao"
+                    >Legislação</a
+                  >
+                </li>
+                <li>
+                  <a href="https://www.gov.br/acessoainformacao/pt-br" i18n:translate="acesso_a_informacao"
+                    >Acesso à Informação</a
+                  >
+                </li-->
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+          
+                    <div class="redes-sociais">
+                        <div class="titulo">Redes sociais</div>
+                    <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/ans_reguladora">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/ansreguladoraoficial">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/ans.reguladora">Facebook</a>
+                </li>
+            
+                <li class="portalredes-instagram portalredes-item">
+                    <a href="https://www.instagram.com/ans.reguladora">Instagram</a>
+                </li>
+            
+                <li class="portalredes-linkedin portalredes-item">
+                    <a href="https://linkedin.com/company/ans_reguladora">Linkedin</a>
+                </li>
+            
+                <li class="portalredes-rss portalredes-item">
+                    <a href="http://feeds.feedburner.com/gov/consumidor">RSS</a>
+                </li>
+            
+                <li class="portalredes-rss portalredes-item">
+                    <a href="http://feeds.feedburner.com/gov/participacao-da-sociedade">RSS</a>
+                </li>
+            
+                <li class="portalredes-rss portalredes-item">
+                    <a href="http://feeds.feedburner.com/gov/operadoras">RSS</a>
+                </li>
+            
+                <li class="portalredes-rss portalredes-item">
+                    <a href="http://feeds.feedburner.com/gov/qualidade-da-saude">RSS</a>
+                </li>
+            
+                <li class="portalredes-rss portalredes-item">
+                    <a href="http://feeds.feedburner.com/gov/numeros-do-setor">RSS</a>
+                </li>
+            
+                <li class="portalredes-rss portalredes-item">
+                    <a href="http://feeds.feedburner.com/gov/covid-19">RSS</a>
+                </li>
+            
+                <li class="portalredes-rss portalredes-item">
+                    <a href="http://feeds.feedburner.com/gov/sobre-a-ans">RSS</a>
+                </li>
+            
+        </ul></div>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Main Menu -->
+        
+    </header><div id="portal-breadcrumbs-wrapper">
+        <nav id="breadcrumbs" aria-label="Histórico de navegação (Breadcrumbs)">
+            <div class="content">
+                <span class="sr-only">Você está aqui:</span>
+                <span class="home">
+            <a href="https://www.gov.br/ans/pt-br">
+              <span class="fas fa-home" aria-hidden="true"></span>
+                <span class="sr-only">Página Inicial</span>
+                </a>
+                </span>
+            
+
+    
+    
+    <span dir="ltr" id="breadcrumbs-1">
+        
+            <a href="https://www.gov.br/ans/pt-br/assuntos">Assuntos</a>
+            
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-2">
+        
+            <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores">Espaço do Prestador de Serviços de Saúde</a>
+            
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-3">
+        
+            <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss">TISS - Padrão para Troca de Informação de Saúde Suplementar</a>
+            
+            
+         
+    </span>
+    <span dir="ltr" id="breadcrumbs-4">
+        
+            
+            
+            <span id="breadcrumbs-current">Padrão TISS – Setembro/2024</span>
+         
+    </span>
+
+</div>
+        </nav>
+    </div><!-- <div class="video"></div> --><div id="wrapper">
+        <!-- Columns -->
+
+        <div id="main">
+            
+
+            <main id="main-content">
+
+            <div id="viewlet-above-content">
+
+
+
+
+    
+        <script type="application/ld+json">{"@context": "http://schema.org", "itemListElement": [{"position": 1, "@type": "ListItem", "item": "https://www.gov.br/ans/pt-br/assuntos", "name": "Assuntos"}, {"position": 2, "@type": "ListItem", "item": "https://www.gov.br/ans/pt-br/assuntos/prestadores", "name": "Espa\u00e7o do Prestador de Servi\u00e7os de Sa\u00fade"}, {"position": 3, "@type": "ListItem", "item": "https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss", "name": "TISS - Padr\u00e3o para Troca de Informa\u00e7\u00e3o de Sa\u00fade Suplementar"}, {"position": 4, "@type": "ListItem", "item": "https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/setembro-2024", "name": "Padr\u00e3o TISS \u2013 Setembro/2024"}], "@type": "BreadcrumbList"}</script>
+    
+
+
+
+
+    
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+            <h1 class="documentFirstHeading">Padrão TISS – Setembro/2024</h1>
+        
+                             
+                             <div id="viewlet-below-content-title"></div>
+
+                             
+                                 
+                                 
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+    
+    
+        <div class="social-links">
+            <label>Compartilhe: </label>
+            
+                
+                    <a href="http://www.facebook.com/sharer.php?u=https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/setembro-2024" title="Facebook" class="">
+                        <span aria-hidden="true" class="fab fa-facebook-f"></span>
+                        <span class="sr-only">Compartilhe por Facebook</span>
+                    </a>
+                
+                    <a href="https://twitter.com/share?text=Padr%C3%A3o%20TISS%20%E2%80%93%20Setembro/2024&amp;url=https://www.gov.br/ans/resolveuid/21572266059243e18f7e4c598f1caf01" title="Twitter" class="">
+                        <span aria-hidden="true" class="fab fa-x-twitter"></span>
+                        <span class="sr-only">Compartilhe por Twitter</span>
+                    </a>
+                
+                    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/setembro-2024&amp;title=Padr%C3%A3o%20TISS%20%E2%80%93%20Setembro/2024" title="LinkedIn" class="">
+                        <span aria-hidden="true" class="fab fa-linkedin-in"></span>
+                        <span class="sr-only">Compartilhe por LinkedIn</span>
+                    </a>
+                
+                    <a href="https://api.whatsapp.com/send?text=https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/setembro-2024" title="WhatsApp" class="link-whatsapp">
+                        <span aria-hidden="true" class="fab fa-whatsapp"></span>
+                        <span class="sr-only">Compartilhe por WhatsApp</span>
+                    </a>
+                
+            
+            <a class="link-clipboard" onclick="event.preventDefault()" title="Copiar para área de transferência" href="https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/setembro-2024">
+                <span class="fas fa-link" aria-hidden="true"></span>
+                <span class="sr-only">link para Copiar para área de transferência</span>
+            </a>
+            <!--a class="toggle-social-links">
+                <span class="fas fa-share-alt"></span>
+                <span class="fas fa-times"></span>
+            </a-->
+        </div>
+        <script>
+            new ClipboardJS('.link-clipboard', {
+                text: function(trigger) {
+                    return trigger.getAttribute('href');
+                }
+            });
+        </script>
+    
+
+<div class="documentByLine" id="plone-document-byline">
+  
+
+  
+
+  
+      <span class="documentPublished">
+        <span>Publicado em</span>
+        <!-- TODO: Criar no arquivo de tradução uma máscara para a data aparecer no seguinte formato:
+             PT_BR: 15/10/2019 às 14:01
+             EN   : 10/15/2019 at 14:01
+        -->
+        <span class="value">31/07/2023 10h09</span>
+      </span>
+      <!-- TODO: Fazer esta comparação de uma forma melhor -->
+      <span class="documentModified">
+        <span>Atualizado em</span>
+        <span class="value">24/09/2024 14h41</span>
+      </span>
+  
+
+  
+
+  
+
+  
+
+  
+</div>
+
+</div>
+                             <div id="content-core">
+                                 
+
+  <div id="parent-fieldname-text"><h2>O padrão TISS está organizado em cinco componentes:</h2>
+<p><strong>1) Organizacional</strong></p>
+<p>O componente organizacional do Padrão TISS estabelece o conjunto de regras operacionais.</p>
+<p><strong>2) Conteúdo e estrutura</strong></p>
+<p>O componente de conteúdo e estrutura do Padrão TISS estabelece a arquitetura dos dados utilizados nas mensagens eletrônicas e no plano de contingência, para coleta e disponibilidade dos dados de atenção à saúde.</p>
+<p><strong>3) Representação de Conceitos em Saúde</strong></p>
+<p>O componente de representação de conceitos em saúde do Padrão TISS estabelece o conjunto de termos para identificar os eventos e itens assistenciais na saúde suplementar, consolidados na Terminologia Unificada da Saúde Suplementar - TUSS.</p>
+<p><strong>4) Segurança e Privacidade</strong></p>
+<p>O componente de segurança e privacidade do Padrão TISS estabelece os requisitos de proteção para assegurar o direito individual ao sigilo, à privacidade e à confidencialidade dos dados de atenção à saúde. Tem como base o sigilo profissional e segue a legislação.</p>
+<p><strong>5) Comunicação</strong></p>
+<p>O componente de comunicação do Padrão TISS estabelece os meios e os métodos de comunicação das mensagens eletrônicas definidas no componente de conteúdo e estrutura. Adota a linguagem de marcação de dados XML - Extensible Markup Language.</p>
+<h2>Padrão TISS – Identificação da versão vigente</h2>
+<div class="documentEditable">
+<div id="content">
+<div id="content-core">
+<div id="parent-fieldname-text">
+<p>Clique nos links abaixo para acessar os detalhes e arquivos do padrão TISS.</p>
+<div class="table-responsive">
+<table class="table table-bordered">
+<thead class="thead-ans">
+<tr><th>Arquivos do Padrão TISS</th><th>Versão Vigente</th><th>Documentos</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>Componente Organizacional</td>
+<td>202409</td>
+<td><a target="_blank" title="" data-tippreview-image="" href="https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/PadroTISS_ComponenteOrganizacional_202409.pdf" data-tippreview-title="" class="btn btn-primary btn-sm center-block internal-link" data-tippreview-enabled="true">Visualizar (.pdf)<span class="sr-only"> documento referente ao Componente Organizacional</span></a></td>
+</tr>
+<tr>
+<td>Componente de Conteúdo e Estrutura</td>
+<td>202211</td>
+<td><a target="_self" title="" data-tippreview-image="" href="https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/PadroTISS_ComponentedeContedoeEstrutura_202211.zip" data-tippreview-title="" class="btn btn-primary btn-sm center-block internal-link" data-tippreview-enabled="true">Baixar <span class="sr-only">Componente de Conteúdo e estrutura.</span>(.zip)</a></td>
+</tr>
+<tr>
+<td>Componente de Representação de Conceitos em Saúde (Terminologia Unificada da Saúde Suplementar)</td>
+<td>202409</td>
+<td><a class="btn btn-primary btn-sm center-block external-link" href="https://www.ans.gov.br/arquivos/extras/tiss/Padrao_TISS_Representacao_de_Conceitos_em_Saude_202409.zip" target="_self" title="" data-tippreview-enabled="true" data-tippreview-image="" data-tippreview-title="">Baixar <span class="sr-only">Componente de Representação de Conceitos em Saúde (Terminologia Unificada da Saúde Suplementar).</span>(.zip)</a></td>
+</tr>
+<tr>
+<td>Componente de Segurança e Privacidade</td>
+<td>202305</td>
+<td><a target="_self" title="" data-tippreview-image="" href="https://www.gov.br/ans/pt-br/arquivos/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-tiss/padrao-tiss/PadroTISS_segurana_202305.zip" data-tippreview-title="" data-tippy="" class="btn btn-primary btn-sm center-block internal-link" data-tippreview-enabled="true">Baixar <span class="sr-only">Componente de Segurança e Privacidade.</span>(.zip)</a></td>
+</tr>
+<tr>
+<td>Componente de Comunicação</td>
+<td>04.01.00 e 01.04.01</td>
+<td><a target="_blank" title="" data-tippreview-image="" href="https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/PadroTISSComunicao202301.zip" data-tippreview-title="" class="btn btn-primary btn-sm center-block internal-link" data-tippreview-enabled="false">Baixar <span class="sr-only">Componente de Comunicação.</span>(.zip)</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Arquivos Auxiliares</h2>
+<p class="callout"><a class="external-link" href="https://www.ans.gov.br/arquivos/extras/tiss/Padrao_TISS_arquivos_auxiliares_202409.zip" target="_self" title="" data-tippreview-enabled="true" data-tippreview-image="" data-tippreview-title="">Acesse aqui os arquivos auxiliares do Padrão TISS (.zip)</a></p>
+<h2>Solicitações de Aprimoramento do Padrão</h2>
+<p class="callout"><a target="_blank" title="" data-tippreview-image="" href="https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/PadroTISS_Solicitaesdeaprimoramento_202408.zip" data-tippreview-title="" class="internal-link" data-tippreview-enabled="true">Acesse aqui o arquivo com as solicitações de aprimoramento do Padrão TISS (.zip)</a></p>
+<p class="callout"><a target="_self" title="" data-tippreview-image="" href="https://www.gov.br/ans/pt-br/arquivos/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-tiss/padrao-tiss/modelodeoficiodepedidodeaprimoramentoeformulariosdesolicitacaodopadraotiss.zip" data-tippreview-title="" class="internal-link" data-tippreview-enabled="true">Acesse aqui os documentos para solicitar o aprimoramento do Padrão TISS (.zip)</a></p>
+</div>
+</div>
+</div>
+</div></div>
+
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+
+
+    
+    
+        <div class="social-links">
+            <label>Compartilhe: </label>
+            
+                
+                    <a href="http://www.facebook.com/sharer.php?u=https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/setembro-2024" title="Facebook" class="">
+                        <span aria-hidden="true" class="fab fa-facebook-f"></span>
+                        <span class="sr-only">Compartilhe por Facebook</span>
+                    </a>
+                
+                    <a href="https://twitter.com/share?text=Padr%C3%A3o%20TISS%20%E2%80%93%20Setembro/2024&amp;url=https://www.gov.br/ans/resolveuid/21572266059243e18f7e4c598f1caf01" title="Twitter" class="">
+                        <span aria-hidden="true" class="fab fa-x-twitter"></span>
+                        <span class="sr-only">Compartilhe por Twitter</span>
+                    </a>
+                
+                    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/setembro-2024&amp;title=Padr%C3%A3o%20TISS%20%E2%80%93%20Setembro/2024" title="LinkedIn" class="">
+                        <span aria-hidden="true" class="fab fa-linkedin-in"></span>
+                        <span class="sr-only">Compartilhe por LinkedIn</span>
+                    </a>
+                
+                    <a href="https://api.whatsapp.com/send?text=https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/setembro-2024" title="WhatsApp" class="link-whatsapp">
+                        <span aria-hidden="true" class="fab fa-whatsapp"></span>
+                        <span class="sr-only">Compartilhe por WhatsApp</span>
+                    </a>
+                
+            
+            <a class="link-clipboard" onclick="event.preventDefault()" title="Copiar para área de transferência" href="https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss/setembro-2024">
+                <span class="fas fa-link" aria-hidden="true"></span>
+                <span class="sr-only">link para Copiar para área de transferência</span>
+            </a>
+            <!--a class="toggle-social-links">
+                <span class="fas fa-share-alt"></span>
+                <span class="fas fa-times"></span>
+            </a-->
+        </div>
+        <script>
+            new ClipboardJS('.link-clipboard', {
+                text: function(trigger) {
+                    return trigger.getAttribute('href');
+                }
+            });
+        </script>
+    
+
+
+  
+
+
+<div class="govbr-recom-config" data-recom-history-title="Serviços que você acessou">
+
+
+            
+    
+
+</div>
+
+
+
+
+</div>
+        </main>
+
+            
+        </div>
+
+        <div class="conteudo-relacionado"></div>
+
+        <div class="govbr-history-render"></div>
+
+        <footer id="portal-footer" class="portal-footer">
+            <div class="footer-wrapper">
+                <div class="govbr-logo"></div>
+                <!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+                <ul class="list-navigation"><li class="selected dropdown-submenu"><a href="https://www.gov.br/ans/pt-br/assuntos" class="plain">Assuntos</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias" class="state-published hasDropDown">
+            
+            Notícias
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/sobre-ans" class="state-published">
+            
+            Sobre a ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/beneficiario" class="state-published">
+            
+            Consumidor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/licitacao" class="state-published">
+            
+            Licitação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/sociedade" class="state-published">
+            
+            Participação da Sociedade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/operadoras" class="state-published">
+            
+            Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/integracao-com-SUS" class="state-published">
+            
+            Integração com SUS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/qualidade-da-saude" class="state-published">
+            
+            Qualidade da Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/numeros-do-setor" class="state-published">
+            
+            Números do Setor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/noticias/covid-19" class="state-published">
+            
+            Covid-19
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor" class="state-published hasDropDown">
+            
+            Espaço do Consumidor
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/caminho-do-consumidor-1" class="state-published">
+            
+            Caminho do consumidor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/caminho-do-consumidor-1/cartilhas-para-o-consumidor" class="state-published">
+            
+            Cartilhas para o consumidor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratacao-e-troca-de-plano" class="state-published">
+            
+            Contratação e Troca de Plano
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratacao-e-troca-de-plano/orientacoes-sobre-troca-ou-ingresso-em-planos-de-saude-sem-cumprimento-de-carencias-1/portabilidade-de-carencias" class="state-published">
+            
+            Portabilidade de Carências
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/o-que-o-seu-plano-de-saude-deve-cobrir-1" class="state-published">
+            
+            O que o seu plano de saúde deve cobrir?
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/reajuste-variacao-de-mensalidade" class="state-published">
+            
+            Reajuste/Variação de mensalidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/prazos-maximos-de-atendimento" class="state-published">
+            
+            Prazos máximos de atendimento
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/carencia" class="state-published">
+            
+            Carência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/o-que-o-seu-plano-de-saude-deve-cobrir-1/reembolso" class="state-published">
+            
+            Reembolso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/aposentados-e-demitidos" class="state-published">
+            
+            Aposentados e demitidos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/dados-cadastrais-do-consumidor" class="state-published">
+            
+            Dados Cadastrais do Consumidor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/processos-do-consumidor" class="state-published">
+            
+            Acompanhe seu processo
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/acompanhamento-de-solicitacoes-2" class="state-published">
+            
+            Acompanhamento de Solicitações
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/consumidor/parto-na-saude-suplementar-conheca-seus-direitos" class="state-published">
+            
+            Parto na saúde suplementar – Conheça seus direitos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/canais-de-atendimento-ao-consumidor" class="state-published">
+            
+            Canais de Atendimento ao Consumidor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores/qualiss-programa-de-qualificacao-dos-prestadores-de-servicos-de-saude-1" class="state-published">
+            
+            Qualidade de Hospitais, Clínicas, Laboratórios e Profissionais de Saúde
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/informacoes-e-avaliacoes-de-operadoras" class="state-published hasDropDown">
+            
+            Informações e Avaliações de Operadoras
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="http://www.ans.gov.br/ConsultaPlanosConsumidor" class="state-published">
+            
+            Consultar dados e planos da operadora
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/informacoes-e-avaliacoes-de-operadoras/qualificacao-ans" class="state-published">
+            
+            Programa de Qualificação de Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/informacoes-e-avaliacoes-de-operadoras/indice-de-reclamacoes-2" class="state-published">
+            
+            Dados e Índices de Reclamações
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/informacoes-e-avaliacoes-de-operadoras/acreditacao-de-operadoras-1" class="state-published">
+            
+            Acreditação de Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="http://www.ans.gov.br/index.php?option=com_regimeespecial&amp;amp;view=consulta" class="state-published">
+            
+            Operadoras em Regime Especial de Liquidação e em Falência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/informacoes-e-avaliacoes-de-operadoras/indice-de-efetivo-pagamento-ao-ressarcimento-ao-sus-antigo-indice-de-adimplencia-de-ressarcimento-ao-sus-1" class="state-published">
+            
+            Índice de Efetivo Pagamento ao Ressarcimento ao SUS (antigo Índice de Adimplência de Ressarcimento ao SUS)
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/informacoes-e-avaliacoes-de-operadoras/taxas-de-partos-cesareos-por-operadora-de-plano-de-saude" class="state-published">
+            
+            Taxas de partos cesáreos por operadora de plano de saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/informacoes-e-avaliacoes-de-operadoras/monitoramento-de-garantia-de-atendimento" class="state-published">
+            
+            Monitoramento da Garantia de Atendimento
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras" class="state-published hasDropDown">
+            
+            Espaço da Operadora de Plano de Saúde
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/avisos-para-operadoras" class="state-published">
+            
+            Avisos para Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://componentes-portal.ans.gov.br/link/CalendarioOperadoras" class="state-published">
+            
+            Calendário das Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/registro-e-manutencao-de-produtos" class="state-published">
+            
+            Registro e Manutenção de Produtos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/compromissos-e-interacoes-com-a-ans-1" class="state-published">
+            
+            Compromissos e Interações com a ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/aplicativos-ans-2" class="state-published">
+            
+            Aplicativos ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/acompanhamento-de-processos-1" class="state-published">
+            
+            Acompanhamento de Processos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="http://www.ans.gov.br/planos-de-saude-e-operadoras/espaco-da-operadora/busca-de-resolucoes-operacionais" class="state-published">
+            
+            Busca de Resoluções Operacionais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/central-de-atendimento-a-operadoras-e-prestadores" class="state-published">
+            
+            Central de Atendimento a Operadoras e Prestadores
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.ans.gov.br/index.php?option=com_acessooperadora&amp;view=login" class="state-published">
+            
+            Atendimento a Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/relacionamento-com-o-cliente-1" class="state-published">
+            
+            Relacionamento com o Cliente
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/regulacao-prudencial-acompanhamento-assistencial-e-economico-financeiro" class="state-published">
+            
+            Regulação Prudencial, Acompanhamento Assistencial e Econômico-Financeiro
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/acoes-de-fiscalizacao" class="state-published">
+            
+            Ações de Fiscalização
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/operadoras/relacionamento-com-os-prestadores" class="state-published">
+            
+            Relacionamento com os Prestadores
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratacao-e-troca-de-plano" class="state-published hasDropDown">
+            
+            Contratação e Troca de Plano
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratacao-e-troca-de-plano/dicas-de-como-escolher-um-plano-de-saude-1" class="state-published">
+            
+            Dicas de como escolher um plano de saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratacao-e-troca-de-plano/orientacoes-sobre-troca-ou-ingresso-em-planos-de-saude-sem-cumprimento-de-carencias" class="state-published">
+            
+            Portabilidade de carências e outras formas de ingressar num plano sem carências ou CPT
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratacao-e-troca-de-plano/guia-ans-de-planos-de-saude-1" class="state-published">
+            
+            Guia ANS de Planos de Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratacao-e-troca-de-plano/consultar-dados-e-planos-da-operadora" class="state-published">
+            
+            Consultar dados e planos da operadora
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores" class="state-published hasDropDown">
+            
+            Espaço do Prestador de Serviços de Saúde
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores/padrao-para-troca-de-informacao-de-saude-suplementar-2013-tiss" class="state-published">
+            
+            TISS - Padrão para Troca de Informação de Saúde Suplementar
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores/fator-de-qualidade-1" class="state-published">
+            
+            Contrato entre operadoras e prestadores
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores/central-de-atendimento-a-prestadores" class="state-published">
+            
+            Central de Atendimento a Prestadores
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores/qualiss-programa-de-qualificacao-dos-prestadores-de-servicos-de-saude-1" class="state-published">
+            
+            QUALISS - Programa de Qualificação dos Prestadores de Serviços de Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude/parto-adequado-1" class="state-published">
+            
+            Movimento Parto Adequado
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/camaras-e-grupos-tecnicos/grupo-de-trabalho-de-relacionamento-com-prestadores-de-servicos-de-saude" class="state-published">
+            
+            GT RE-DIDES
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores/qualiss-programa-de-qualificacao-dos-prestadores-de-servicos-de-saude-1/monitoramento-da-qualidade-hospitalar" class="state-published">
+            
+            Programa de Monitoramento da Qualidade Hospitalar - PM - Qualiss
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude" class="state-published hasDropDown">
+            
+            Gestão em Saúde
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude/programa-de-certificacao-de-boas-praticas-em-atencao-a-saude-1" class="state-published">
+            
+            Programa de Certificação de Boas Práticas em Atenção à Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude/projeto-oncorede-1" class="state-published">
+            
+            Projeto OncoRede
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude/parto-adequado-1" class="state-published">
+            
+            Parto Adequado
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/prestadores/qualiss-programa-de-qualificacao-dos-prestadores-de-servicos-de-saude-1" class="state-published">
+            
+            QUALISS - Programa de Qualificação dos Prestadores de Serviços de Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude/projeto-enfrentamento-da-obesidade-e-do-sobrepeso" class="state-published">
+            
+            Projeto Enfrentamento da Obesidade e do Sobrepeso
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude/projeto-modelos-de-remuneracao-baseados-em-valor" class="state-published">
+            
+            Projeto Modelos de Remuneração Baseados em Valor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude/programas-de-promocao-da-saude-e-prevencao-de-riscos-e-doencas" class="state-published">
+            
+            Programas de Promoção da Saúde e Prevenção de Riscos e Doenças
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratante" class="state-published hasDropDown">
+            
+            Espaço do Contratante de Plano Coletivo
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratante/contratacao-regras-planos-de-saude" class="state-published">
+            
+            Contratação e Regras dos Planos de Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratante/legislacao-regulacao-em-saude-complementar" class="state-published">
+            
+            Legislação Regulação em Saúde Suplementar
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/gestaosaude" class="state-published">
+            
+            Gestão em Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratante/prestadores-de-servico-de-saude" class="state-published">
+            
+            Prestadores de Serviço de Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratante/dados-importantes-para-contratacao" class="state-published">
+            
+            Dados Importantes para Contratação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/assuntos/contratante/avaliacao-das-operadoras" class="state-published">
+            
+            Avaliação das Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/canais-de-atendimento-ao-consumidor" class="state-published">
+            
+            Sugestões e Dúvidas
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/ans/pt-br/acesso-a-informacao" class="plain">Acesso à Informação</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional" class="state-published hasDropDown">
+            
+            Institucional
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/quem-somos-1" class="state-published">
+            
+            Quem somos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/estrutura-organizacional-2" class="state-published">
+            
+            Estrutura Organizacional
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/competencias" class="state-published">
+            
+            Competências
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/quem-e-quem-1" class="state-published">
+            
+            Quem é quem
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/arquivos/composicao/organograma_ans_geral_setembro_2024-1.pdf" class="state-published">
+            
+            Organograma
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/nossos-enderecos" class="state-published">
+            
+            Núcleos da ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/selo-ans" class="state-published">
+            
+            Selo ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/ans-digital-1" class="state-published">
+            
+            ANS Digital
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/orgaos/agencia-nacional-de-saude-suplementar" class="state-published">
+            
+            Carta de serviços
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/eventos" class="state-published">
+            
+            Eventos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/movimentacao-de-pessoal" class="state-published">
+            
+            Movimentação de pessoal
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/comissao-de-etica" class="state-published">
+            
+            Comissão de ética
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/corregedoria" class="state-published">
+            
+            Corregedoria
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/comunicacao-e-imprensa" class="state-published">
+            
+            Comunicação e Imprensa
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/programa-de-estagio" class="state-published">
+            
+            Programa de Estágio
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/programa-de-gestao" class="state-published">
+            
+            Programa de Gestão
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/institucional/conselho-de-saude-suplementar-consu" class="state-published">
+            
+            Conselho de Saúde Suplementar - Consu
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas" class="state-published hasDropDown">
+            
+            Transparência e Prestação de Contas
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/reunioes-da-diretoria-da-ans" class="state-published">
+            
+            Reuniões da Diretoria da ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/planejamento-estrategico-ans-2021-2025" class="state-published">
+            
+            Planejamento Estratégico ANS 2021-2025
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/agenda-regulatoria" class="state-published">
+            
+            Agenda Regulatória
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/plano-de-gestao-anual" class="state-published">
+            
+            Plano de Gestão Anual
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/prestacao-de-contas" class="state-published">
+            
+            Prestação de Contas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/acoes-e-programas/governanca/gestao-de-riscos" class="state-published">
+            
+            Gestão de Riscos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/plano-de-comunicacao-institucional" class="state-published">
+            
+            Plano de Comunicação Institucional
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/documentos-tecnicos-da-ans-1" class="state-published">
+            
+            Documentos Técnicos da ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/plano-diretor-de-tecnologia-da-informacao-e-comunicacao" class="state-published">
+            
+            PDTIC
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/planos-de-gestao-de-logistica-sustentavel" class="state-published">
+            
+            Governança e Responsabilidade Socioambiental (ESG)
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="http://www.ans.gov.br/index.php?option=com_legislacao&amp;amp;view=entendimento" class="state-published">
+            
+            Busca de Entendimentos da DIFIS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/acordos-de-cooperacao-tecnica" class="state-published">
+            
+            Acordos de Cooperação Técnica
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/parceiros-da-cidadania" class="state-published">
+            
+            Parceiros da Cidadania
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/acoes-de-capacitacao" class="state-published">
+            
+            Ações de Capacitação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/relatorio-de-atividades" class="state-published">
+            
+            Relatório de Atividades
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/programa-de-gestao-estrategica-e-transformacao-do-estado-transformagov" class="state-published">
+            
+            TransformaGov
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/rol-de-responsaveis" class="state-published">
+            
+            Rol de Responsáveis
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/cadeia-de-valor" class="state-published">
+            
+            Cadeia de Valor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/monitoramento-e-avaliacao-da-estrategia" class="state-published">
+            
+            Monitoramento e Avaliação da Estratégia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/analise-de-impacto-regulatorio-air" class="state-published">
+            
+            Análise de Impacto Regulatório (AIR)
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/agenda-de-avaliacao-de-resultado-regulatorio-arr" class="state-published">
+            
+            Avaliação de Resultado Regulatório - ARR
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/relatorios-de-air" class="state-published">
+            
+            Relatórios de (AIR)
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/atos-normativos-que-tiveram-dispensa-de-air" class="state-published">
+            
+            Dispensas de AIR
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/programa-de-qualificacao-institucional" class="state-published">
+            
+            Programa de Qualificação Institucional
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/agenda-de-autoridades-1" class="state-published">
+            
+            Agenda de Autoridades
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/acoes-e-programas" class="state-published hasDropDown">
+            
+            Ações e Programas
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/acoes-e-programas/lista-de-programas-e-acoes-da-ans" class="state-published">
+            
+            Lista de Programas e Ações da ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/acoes-e-programas/metas-e-indicadores-de-impacto" class="state-published">
+            
+            Metas e Indicadores de Impacto
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/orgaos/agencia-nacional-de-saude-suplementar" class="state-published">
+            
+            Carta de Serviços
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/acoes-e-programas/governanca" class="state-published">
+            
+            Governança
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade" class="state-published hasDropDown">
+            
+            Participação Social
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/agenda-regulatoria" class="state-published">
+            
+            Agenda Regulatória
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/audiencias-publicas" class="state-published">
+            
+            Audiências Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/camara-de-saude-suplementar" class="state-published">
+            
+            CAMSS - Câmara de Saúde Suplementar
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/camaras-e-grupos-tecnicos" class="state-published">
+            
+            Câmaras e Grupos Técnicos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/consultas-publicas" class="state-published">
+            
+            Consultas Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/comites-e-comissoes-1" class="state-published">
+            
+            Comitês e Comissões
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/reunioes-tecnicas-1" class="state-published">
+            
+            Reuniões Técnicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos" class="state-published">
+            
+            Atualização do Rol de Procedimentos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/ouvidoria-1" class="state-published">
+            
+            Ouvidoria
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://componentes-portal.ans.gov.br/link/TomadaPublica" class="state-published">
+            
+            Tomada Pública de Subsídios (TPS)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/convenios-e-transferencias" class="state-published">
+            
+            Convênios e Transferências
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/receitas-e-despesas" class="state-published hasDropDown">
+            
+            Receitas e Despesas
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/receitas-e-despesas/ordem-cronologica-de-pagamentos" class="state-published">
+            
+            Ordem Cronológica de Pagamentos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/licitacoes-e-contratos" class="state-published hasDropDown">
+            
+            Licitações e Contratos
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/licitacoes-e-contratos/termos-de-execucao-descentralizada-TED" class="state-published">
+            
+            Termos de Execução Descentralizada - TED
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/licitacoes-e-contratos/chamamento_publico_compartilhado" class="state-published">
+            
+            Chamamento Público Compartilhado
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://componentes-portal.ans.gov.br/link/LicitacoesAbertas" class="state-published">
+            
+            Licitações
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://componentes-portal.ans.gov.br/link/ContratosVigentes" class="state-published">
+            
+            Contratos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/servidores" class="state-published hasDropDown">
+            
+            Servidores
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/servidores/passo-a-passo-para-acesso-ao-portal-da-transparencia" class="state-published">
+            
+            Passo a passo para acesso ao Portal da Transparência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.servidor.gov.br/" class="state-published">
+            
+            Portal do Servidor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/servidores/concursos-publicos-1/concursos-publicos" class="state-published">
+            
+            Concursos Públicos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.portaltransparencia.gov.br/servidores/consulta?paginacaoSimples=true&amp;tamanhoPagina=&amp;offset=&amp;direcaoOrdenacao=asc&amp;colunasSelecionadas=detalhar%2Ctipo%2Ccpf%2Cnome%2CorgaoServidorExercicio%2CorgaoServidorLotacao%2Cmatricula%2CtipoVinculo%2Cfuncao&amp;orgaosServidorLotacao=OR36208&amp;ordenarPor=nome&amp;direcao=asc" class="state-published">
+            
+            Listagem de Servidores
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/arquivos/acesso-a-informacao/servidores/planilhaterceirizados__ANS_JANEIRO_2024__Site_da_ANS.xls" class="state-published">
+            
+            Listagem de Colaboradores Terceirizados
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/servidores/passo-a-passo-para-acesso-ao-portal-da-transparencia" class="state-published">
+            
+            Portal da Transparência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.ans.gov.br/portal-interno" class="state-published">
+            
+            Sistemas Institucionais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.ans.gov.br/sif-teletrabalho/" class="state-published">
+            
+            SIF - Teletrabalho
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/canais-de-atendimento-ao-consumidor" class="state-published">
+            
+            Perguntas Frequentes
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/servico-de-informacao-ao-cidadao-sic" class="state-published">
+            
+            Serviço de Informação ao Cidadão - SIC
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/informacoes-classificadas-e-desclassificadas" class="state-published">
+            
+            Informações Classificadas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/acessoainformacao/pt-br" class="state-published">
+            
+            Sobre a Lei de Acesso à Informação
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor" class="state-published hasDropDown">
+            
+            Dados do Setor
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-e-indicadores-do-setor" class="state-published">
+            
+            Dados e Indicadores do Setor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-gerais" class="state-published">
+            
+            Dados Gerais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.ans.gov.br/index.php?option=com_legislacao&amp;view=mais_vistas%27" class="state-published">
+            
+            Normas mais acessadas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/perfil-do-setor/dados-abertos-1" class="state-published">
+            
+            Dados Abertos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/tratamento-de-dados-pessoais" class="state-published hasDropDown">
+            
+            Tratamento de Dados Pessoais
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/tratamento-de-dados-pessoais/relatorios-orgaos-de-controle" class="state-published">
+            
+            Relatórios dos Órgãos de Controle
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/tratamento-de-dados-pessoais/termo-de-uso-e-aviso-de-privacidade-ans-movel" class="state-published">
+            
+            Termo de Uso e Aviso de Privacidade - ANS-Móvel
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/tratamento-de-dados-pessoais/compartilhamento-de-dados" class="state-published">
+            
+            Compartilhamento de Dados
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/auditorias" class="state-published hasDropDown">
+            
+            Auditorias
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/auditorias/auditoria-interna" class="state-published">
+            
+            Auditoria Interna
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/prestacao-de-contas/contas-publicas" class="state-published">
+            
+            Contas públicas - Prestação de Contas Anual
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/acesso-a-informacao/guia-de-planos" class="state-published">
+            
+            Guia de Planos
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/ans/pt-br/composicao" class="plain">Composição</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/dicol" class="state-published hasDropDown">
+            
+            DICOL - Diretoria Colegiada
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/dicol/presidencia" class="state-published">
+            
+            PRESI - Presidência
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/dicol/dides-diretoria-de-desenvolvimento-setorial" class="state-published">
+            
+            DIDES - Diretoria de Desenvolvimento Setorial
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/dicol/diope-diretoria-de-normas-e-habilitacao-das-operadoras" class="state-published">
+            
+            DIOPE - Diretoria de Normas e Habilitação das Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/dicol/dipro-diretoria-de-normas-e-habilitacao-dos-produtos" class="state-published">
+            
+            DIPRO - Diretoria de Normas e Habilitação dos Produtos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/dicol/difis-diretoria-de-fiscalizacao" class="state-published">
+            
+            DIFIS - Diretoria de Fiscalização
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/dicol/diges-diretoria-de-gestao" class="state-published">
+            
+            DIGES - Diretoria de Gestão
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/vinc-orgaos-vinculados" class="state-published hasDropDown">
+            
+            VINC - Órgãos Vinculados
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/vinc-orgaos-vinculados/audit-auditoria-interna" class="state-published">
+            
+            AUDIT - Auditoria Interna
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/vinc-orgaos-vinculados/camss-camara-de-saude-suplementar" class="state-published">
+            
+            CAMSS - Câmara de Saúde Suplementar
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/vinc-orgaos-vinculados/ceans-comissao-de-etica" class="state-published">
+            
+            CEANS - Comissão de Ética
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/vinc-orgaos-vinculados/ouvid-ouvidoria" class="state-published">
+            
+            OUVID - Ouvidoria
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/vinc-orgaos-vinculados/ppcor-corregedoria" class="state-published">
+            
+            PPCOR - Corregedoria
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/composicao/vinc-orgaos-vinculados/proge-procuradoria-federal-junto-a-ans" class="state-published">
+            
+            PROGE - Procuradoria Federal Junto à ANS
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo" class="plain">Centrais de Conteúdo</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/publicacoes" class="state-published hasDropDown">
+            
+            Legislação
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.ans.gov.br/index.php?option=com_legislacao&amp;view=legislacao" class="state-published">
+            
+            Busca de Legislação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.ans.gov.br/index.php?option=com_legislacao&amp;view=indice" class="state-published">
+            
+            Índice Temático
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/publicacoes/elaboracao-das-normas-da-saude-suplementar" class="state-published">
+            
+            Elaboração das Normas da Saúde Suplementar
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiMDJmYTk1NTAtNGNjNi00MDM1LWFhMTgtNjBjNGM2M2VmMTgyIiwidCI6IjlkYmE0ODBjLTRmYTctNDJmNC1iYmEzLTBmYjEzNzVmYmU1ZiJ9" class="state-published">
+            
+            Atos normativos da ANS
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/biblioteca" class="state-published hasDropDown">
+            
+            Biblioteca
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="http://www.ans.gov.br/index.php?option=com_glossario&amp;amp;view=termos" class="state-published">
+            
+            Glossário Temático da Saúde Suplementar
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="http://www.ans.gov.br/biblioteca/index.html" class="state-published">
+            
+            Biblioteca ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/biblioteca/relatorios-de-gestao-da-ans" class="state-published">
+            
+            Relatórios de Gestão da ANS
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras" class="state-published hasDropDown">
+            
+            Manuais do Portal Operadoras
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/acesso-e-gestao-de-usuarios-no-portal-operadoras" class="state-published">
+            
+            Acesso e Gestão de Usuários no Portal Operadoras
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/area-do-desenvolvedor" class="state-published">
+            
+            Área do Desenvolvedor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/copy_of_alteracao-de-rede-hospitalar" class="state-published">
+            
+            Alteração de Rede Hospitalar
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/financeiro" class="state-published">
+            
+            Financeiro
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/gear-gestao-eletronica-de-autorizacao-de-reajuste" class="state-published">
+            
+            GEAR - Gestão Eletrônica de Autorização de Reajuste
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/guia-ans-de-planos-de-saude" class="state-published">
+            
+            Guia ANS de Planos de Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/manual-de-instalacao-historico-de-versao-e-outros-arquivos-arps" class="state-published">
+            
+            Manual de instalação, histórico de versão e outros arquivos - ARPS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/manual-de-instalacao-historico-de-versao-e-outros-arquivos-scpa" class="state-published">
+            
+            Manual de instalação, histórico de versão e outros arquivos - SCPA
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/manual-de-instalacao-historico-de-versao-e-outros-arquivos-pta" class="state-published">
+            
+            Manual de instalação, histórico de versão e outros arquivos - PTA
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/protocolo-eletronico" class="state-published">
+            
+            Protocolo Eletrônico
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/reajuste-de-planos-coletivos-rpc" class="state-published">
+            
+            Reajuste de planos coletivos - RPC
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/sistema-de-cadastro-das-operadoras-2013-cadop" class="state-published">
+            
+            Sistema de Cadastro das Operadoras – CADOP
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/sib-manual-de-instalacao-historico-de-versao-e-outros-arquivos" class="state-published">
+            
+            SIB - Manual de instalação, histórico de versão e outros arquivos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/sip-manual-de-instalacao-historico-de-versao-e-outros-arquivos" class="state-published">
+            
+            SIP - Manual de Orientação e Outros Documentos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manuais-do-portal-operadoras/visualizacao-de-processos" class="state-published">
+            
+            Visualização de Processos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manual-das-acreditadoras" class="state-published hasDropDown">
+            
+            Manual das Acreditadoras
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manual-das-acreditadoras/manual-de-autenticacao-qualiss" class="state-published">
+            
+            Manual de autenticação QUALISS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/centrais-de-conteudo/manual-das-acreditadoras/manual-de-integracao-qualiss" class="state-published">
+            
+            Manual de integração QUALISS
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiMDJmYTk1NTAtNGNjNi00MDM1LWFhMTgtNjBjNGM2M2VmMTgyIiwidCI6IjlkYmE0ODBjLTRmYTctNDJmNC1iYmEzLTBmYjEzNzVmYmU1ZiJ9" class="state-published">
+            
+            Atos normativos da ANS
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/ans/pt-br/canais_atendimento" class="plain">Canais de Atendimento</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/nossos-enderecos" class="state-published">
+            
+            Núcleos da ANS
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/canais-de-atendimento-ao-consumidor" class="state-published">
+            
+            Canais de Atendimento ao Consumidor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/central-de-atendimento-a-operadoras-e-prestadores" class="state-published">
+            
+            Central de Atendimento a Operadoras e Prestadores
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/servico-de-informacao-ao-cidadao-sic" class="state-published">
+            
+            Serviço de Informação ao Cidadão - SIC
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/ouvidoria-1" class="state-published hasDropDown">
+            
+            Ouvidoria
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/ouvidoria-1/atribuicoes-da-ouvidoria" class="state-published">
+            
+            Atribuições da Ouvidoria
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/ouvidoria-1/relatorios-e-pesquisas" class="state-published">
+            
+            Relatórios e Pesquisas da Ouvidoria
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/ouvidoria-1/legislacao-da-ouvidoria" class="state-published">
+            
+            Legislação da Ouvidoria
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/ouvidoria-1/espaco-ouvidorias-1" class="state-published">
+            
+            Espaço Ouvidorias
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="http://www.ans.gov.br/externo/site_novo/fale_ans/licitacoes.asp" class="state-published">
+            
+            Fale sobre licitações
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/sala-de-imprensa" class="state-published hasDropDown">
+            
+            Sala de Imprensa
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/sala-de-imprensa/releases" class="state-published">
+            
+            Releases
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/sala-de-imprensa/ans-na-midia" class="state-published">
+            
+            ANS na mídia
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/sala-de-imprensa/videos-1" class="state-published">
+            
+            Vídeos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/sala-de-imprensa/podcasts" class="state-published">
+            
+            Podcasts
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/sala-de-imprensa/publicidade" class="state-published">
+            
+            Publicidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/sala-de-imprensa/posicionamentos" class="state-published">
+            
+            Comunicados e Posicionamentos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/ans/pt-br/canais_atendimento/sala-de-imprensa/galeria" class="state-published">
+            
+            Galeria
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li></ul>
+                <!--</div>
+            </div>-->
+
+                
+        <div class="lgpd-reset-cookies">
+        <a href="#" class="reset-cookies" onclick="_redefinirCookies(); return false;">Redefinir Cookies</a>
+    </div>
+    <div class="redes-e-logos">
+                    <div class="redes-sociais">
+                        <div class="titulo">Redes sociais</div>
+                    <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/ans_reguladora">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/ansreguladoraoficial">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/ans.reguladora">Facebook</a>
+                </li>
+            
+                <li class="portalredes-instagram portalredes-item">
+                    <a href="https://www.instagram.com/ans.reguladora">Instagram</a>
+                </li>
+            
+                <li class="portalredes-linkedin portalredes-item">
+                    <a href="https://linkedin.com/company/ans_reguladora">Linkedin</a>
+                </li>
+            
+                <li class="portalredes-rss portalredes-item">
+                    <a href="http://feeds.feedburner.com/gov/consumidor">RSS</a>
+                </li>
+            
+                <li class="portalredes-rss portalredes-item">
+                    <a href="http://feeds.feedburner.com/gov/participacao-da-sociedade">RSS</a>
+                </li>
+            
+                <li class="portalredes-rss portalredes-item">
+                    <a href="http://feeds.feedburner.com/gov/operadoras">RSS</a>
+                </li>
+            
+                <li class="portalredes-rss portalredes-item">
+                    <a href="http://feeds.feedburner.com/gov/qualidade-da-saude">RSS</a>
+                </li>
+            
+                <li class="portalredes-rss portalredes-item">
+                    <a href="http://feeds.feedburner.com/gov/numeros-do-setor">RSS</a>
+                </li>
+            
+                <li class="portalredes-rss portalredes-item">
+                    <a href="http://feeds.feedburner.com/gov/covid-19">RSS</a>
+                </li>
+            
+                <li class="portalredes-rss portalredes-item">
+                    <a href="http://feeds.feedburner.com/gov/sobre-a-ans">RSS</a>
+                </li>
+            
+        </ul></div>
+                    <div id="footer-govbr">
+                        <div id="wrapper-footer-brasil">
+                            <a class="logo-acesso-footer" href="https://www.gov.br/acessoainformacao/pt-br" title="Acesse o portal sobre o acesso à informação">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 117 49" height="49" width="117" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"><defs><style type="text/css"><![CDATA[.a {font: normal bold 11px Open Sans, sans-serif;}]]></style></defs><circle cx="22" cy="23" r="22" fill="#222"></circle><path style="stroke:#fff;stroke-width:9;stroke-linecap:round;" d="m 22,23 v 13"></path><path style="stroke:#222;stroke-width:4;stroke-linejoin:round;" d="m 4,43 3,-6 4,3 z"></path><circle r="4.5" cy="11" cx="22" fill="#fff"></circle><g fill="#222"><text x="47" y="22"><tspan class="a" y="18">Acesso à</tspan><tspan class="a" x="47" y="31">Informação</tspan></text></g></svg>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="texto-copyright">
+    Todo o conteúdo deste site está publicado sob a licença <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+        </footer>
+
+        <nav class="back-to-top" aria-label="Voltar ao topo da página">
+            <a href="#wrapper">
+                <span class="fa fa-chevron-up"></span>
+                <span class="sr-only">Voltar ao topo da página</span>
+            </a>
+        </nav>
+    <div id="govbr-busca-input-data" style="display: none" data-autocomplete-api="https://portalunico.estaleiro.serpro.gov.br/api/" data-autocomplete-index="//www.gov.br/ans" data-autocomplete-orgao="agencia-nacional-de-saude-suplementar" data-autocomplete-search="https://www.gov.br/ans/pt-br" data-autocomplete-portal="https://www.gov.br" data-historico-title="Histórico de buscas" data-servicos-title="Serviços e Apps" data-sugestoes-title="Você quis dizer?" data-input-placeholder="O que você procura?"></div></div><div id="main-navigation-overlay"></div><div class="redefinir-cookies">
+
+    
+
+</div><div class="dsgov">
+    <div class="br-cookiebar default d-none" tabindex="-1">
+      <div class="br-modal">
+        <div class="br-card">
+          <div class="container">
+            <div class="wrapper">
+              <div class="br-modal-header entry-content">
+                <div class="br-modal-title"></div>
+                <div class="last-update"></div>
+                <div class="entry-text"></div>
+              </div>
+              <div class="br-modal-body">
+                <div class="info-text"></div>
+                <div class="br-list main-content">
+                </div>
+              </div>
+            </div>
+            <div class="br-modal-footer actions">
+              <button class="br-button small btn-manage" type="button" aria-label="Definir Cookies"></button>
+              <button class="br-button secondary small reject-all" type="button" aria-label="Rejeitar">Rejeitar</button>
+              <button class="br-button secondary small btn-accept" type="button" aria-label="Aceitar"></button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><script id="lgpd-cookie-handling" type="text/javascript" src="https://www.gov.br/ans/++resource++govbr.policy/lgpd_cookie_handling_1_3_88.js"></script><div id="govbr-login-overlay-wrapper"></div><div id="govbr-busca-por-voz-overlay-wrapper">
+        <div class="busca-por-voz">
+            <span class="transcpt-text">Fale Agora</span>
+            <a href="#" id="btn-refazer-busca" class="refazer-busca">
+                Refazer a busca
+            </a>
+            
+            <a href="#" id="btn-ouvindo" class="btn-microfone ouvindo">
+                <span class="fas fa-microphone"></span>
+            </a>
+
+            <a href="#" id="btn-nao-entendi" class="btn-microfone nao-entendi">
+                <span class="fas fa-microphone"></span>
+            </a>
+
+            <a href="#" id="btn-fechar">
+                <span class="fas fa-times"></span>
+            </a>
+        </div>
+    </div><div vw="" class="enabled">
+        <div vw-access-button="" class="active"></div>
+        <div vw-plugin-wrapper="">
+          <div class="vw-plugin-top-wrapper"></div>
+        </div>
+    </div><!-- relato 4118176 --><script>
+        window.onbeforeunload = null;
+    </script><script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script><script>
+    new window.VLibras.Widget('https://vlibras.gov.br/app', 'https://vlibras.gov.br/config/default_logo.json');
+    </script><script type="text/javascript" src="/ans/++theme++padrao_govbr/govbrtheme-a13d586.js"></script><div id="plone-analytics"><!-- Facebook Pixel Code -->
+<script type="text">
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1225758100960329');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1225758100960329&amp;ev=PageView&amp;noscript=1" /></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Twitter universal website tag code -->
+<script type="text">
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','o4k84');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+
+<!-- Linkedin Smart Links -->
+<script type="text/javascript">
+_linkedin_partner_id = "2809508";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2809508&amp;fmt=gif" />
+</noscript>
+<!-- End Linkedin Smart Links --></div></body>
+</html>
